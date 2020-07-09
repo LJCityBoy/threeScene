@@ -1,5 +1,5 @@
-import shaderFragment from '../../shaders/blur/fragment.glsl'
-import shaderVertex from '../../shaders/blur/vertex.glsl'
+import shaderFragment from '../../shaders/blur/fragment.js'
+import shaderVertex from '../../shaders/blur/vertex.js'
 
 export default {
     uniforms:

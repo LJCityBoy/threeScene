@@ -1,7 +1,7 @@
 import * as THREE from 'three'
 
-import shaderFragment from '../../shaders/projectBoard/fragment.glsl'
-import shaderVertex from '../../shaders/projectBoard/vertex.glsl'
+import shaderFragment from '../../shaders/projectBoard/fragment.js'
+import shaderVertex from '../../shaders/projectBoard/vertex.js'
 
 export default function () {
     const uniforms = {
